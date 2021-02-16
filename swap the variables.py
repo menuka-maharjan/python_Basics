@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+print("a:",a)
+print("b:",b)
+t=a
+a=b
+b=t
+print("a:",a)
+print('b',b)
